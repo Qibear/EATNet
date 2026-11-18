@@ -27,14 +27,17 @@ EATNet predicts a pixel-level saliency map from a paired RGB image and depth map
 ### Model Checkpoints
 
 - [Baidu Netdisk](https://pan.baidu.com/s/140fPKsnqNn3l7edHg8uY3A?pwd=dcf9) (extraction code `dcf9`)
+- [Google Drive — checkpoints](https://drive.google.com/drive/folders/16dzE9UnCGuWHqO-LPxLTtJ7IH30efN-2)
 
 ### EATNet Saliency Maps
 
 - [Baidu Netdisk](https://pan.baidu.com/s/1HxMjuCgSn4j57jXzgjz85w?pwd=htar) (extraction code `htar`)
+- [Google Drive — EATNet_SOD.zip](https://drive.google.com/file/d/1LqY4K0zMPLCi0uNkBC7t9A2xEBqWHVSE/view?usp=drivesdk)
 
 ### Saliency Maps from All Compared Models
 
 - [Baidu Netdisk](https://pan.baidu.com/s/18rbe21QJuwC7dNMXl2htKg?pwd=w4t8) (extraction code `w4t8`)
+- [Google Drive — SOD_Models_Compare.zip](https://drive.google.com/file/d/1sVuEe-9E7dEI3TJwWuqGeUlnU-WnoIm8/view?usp=drivesdk)
 
 ## Citation
 
