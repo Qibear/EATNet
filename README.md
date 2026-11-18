@@ -10,17 +10,17 @@ EATNet predicts a pixel-level saliency map from a paired RGB image and depth map
 
 ## Comparison with Existing Methods
 
-### Precision–Recall Curves
-
-![Precision–recall curves for EATNet and competing methods on NJU2K, LFSD, NLPR, SSD, and STERE](figures/pr-curves.png)
-
-*Figure 1. Precision–recall curves on five RGB-D benchmarks. The solid red curve labeled “Our” denotes EATNet.*
-
 ### Qualitative Comparison
 
 ![RGB and depth inputs, ground-truth masks, and saliency predictions from EATNet and competing methods](figures/qualitative-comparison.jpg)
 
-*Figure 2. Example RGB-D inputs, ground-truth masks (GT), and saliency predictions. The column labeled “Our” shows EATNet predictions.*
+*Figure 1. Example RGB-D inputs, ground-truth masks (GT), and saliency predictions. The column labeled “Our” shows EATNet predictions.*
+
+### Precision–Recall Curves
+
+![Precision–recall curves for EATNet and competing methods on NJU2K, LFSD, NLPR, SSD, and STERE](figures/pr-curves.png)
+
+*Figure 2. Precision–recall curves on five RGB-D benchmarks. The solid red curve labeled “Our” denotes EATNet.*
 
 ## Downloads
 
